@@ -28,7 +28,7 @@ public class Test implements ActionListener{
 	public static Login frame;
 	public static Main zhu;
 	public static String mysqlname="root";
-	public static String mysqlpassword="";
+	public static String mysqlpassword="123456";
 	public static String database="company";
 	
 	public static void main(String[] args) {
@@ -53,7 +53,7 @@ public class Test implements ActionListener{
 			new Testmysql();
 		}
 		if(e1.getSource()==Kucun_ruku.ruku){
-			//Á¬½ÓÊý¾Ý¿âruku£»
+			//ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ý¿ï¿½rukuï¿½ï¿½
 			
 		       
 		}
